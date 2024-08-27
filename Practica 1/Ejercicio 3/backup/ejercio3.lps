@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercio3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="23" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="ejercio3.lpr"/>
+        <Caret Line="22" Column="35" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercio3.lpr"/>
+        <Caret Line="17" Column="15" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ejercio3.lpr"/>
+        <Caret Line="29" Column="61" TopLine="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

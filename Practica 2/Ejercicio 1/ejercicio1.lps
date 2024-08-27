@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejercicio1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="77"/>
+        <CursorPos X="18" Y="85"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\Downloads\AgustinShimizu.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="278"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="adicional2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="22" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="2">
+      <Position>
+        <Filename Value="adicional2.lpr"/>
+        <Caret Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="adicional2.lpr"/>
+        <Caret Line="74" Column="21" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="adicional2.lpr"/>
+        <Caret Line="9" Column="32"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

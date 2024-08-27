@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1482329590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Ludmi\Documents\CBD\Practica 1\Ejercicio 4\lib\i386-win32&quot; &quot;-FuC:\Users\Ludmi\Documents\CBD\Practica 1\Ejercicio 4\&quot; &quot;-FUC:\Users\Ludmi\Documents\CBD\Practica 1\Ejercicio 4\lib\i386-win32\&quot; &quot;-FEC:\Users\Ludmi\Documents\CBD\Practica 1\Ejercicio 4\&quot; &quot;-oC:\Users\Ludmi\Documents\CBD\Practica 1\Ejercicio 4\ejercicio4.exe&quot; ejercicio4.lpr"/>
+</CONFIG>
